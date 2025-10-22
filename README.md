@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 💻 I am a Master in Computer Science and Data Engineer
-- 🛠 Skills
-      | Spark | Python | Airflow | Data Lake | Kubernetes
+- 🛠 Skills:
+      - | Spark | Python | Airflow | Data Lake | Kubernetes
 - 🔭 I’m currently working on QuintoAndar
 - ⚡ Fun fact: During my free time I like to biking 🚲 and practice Muay Thai 🥊
 <!--
