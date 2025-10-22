@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardorochasoares&show_icons=true)
-
+🔭 I’m currently working on QuintoAndar
 <!--
 **eduardorochasoares/eduardorochasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
