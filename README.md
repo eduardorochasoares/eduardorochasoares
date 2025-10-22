@@ -1,5 +1,7 @@
 ## Hi there 👋
+💻 I am a Master in Computer Science and Data Engineer 
 🔭 I’m currently working on QuintoAndar
+⚡ Fun fact: During my free time I like to biking 🚲 and practice Muay Thai 🥊
 <!--
 **eduardorochasoares/eduardorochasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
